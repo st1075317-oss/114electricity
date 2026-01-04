@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/user-attachments/files/24420207/index.html](https://github.com/user-attachments/files/24420207/index.html
+git remote add origin "C:\Users\user\Downloads\chineseAI   LAB"
 git add .
 git commit -m "Initial commit"
 git push -u origin main
